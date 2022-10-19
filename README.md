@@ -21,7 +21,7 @@ The virtual user count is the number of parallel requests that Azure Load Testin
 - [MS | Learn | Azure Load Testing pricing][4]
 - [Youtube | Betabit | Betatalks #63 - An introduction to Azure Load Testing][3]
 - [Youtube | Azure Power Lunch | Azure Load Testing Preview][7]
-- Azure Load Testing
+- JMeter
 - [Youtube | Ashish Thakur | JMeter CSV Data Set Config - JMeter Tutorial (Part 9)][9]
 - [Youtube | QAInsights | S1E7 Learn JMeter Series - HTTP Header Manager][8]
 
